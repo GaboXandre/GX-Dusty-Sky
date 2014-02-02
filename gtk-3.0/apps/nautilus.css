@@ -1,11 +1,8 @@
 @define-color cluebar_color shade (mix (@bg_color, @base_color, 0.5), 0.95);
 
+
 NautilusWindow * {
     -GtkPaned-handle-size: 1;
-}
-
-NautilusDesktopWindow GtkWidget {
-    background-color: @transparent;
 }
 
 .nautilus-canvas-item {

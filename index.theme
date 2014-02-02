@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=GX-Ambiance
-Comment=Ubuntu Ambiance theme
+Name=GX-Dusty-Sky
+Comment=Ubuntu Saphir-Ambiance theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=GX-Ambiance
-MetacityTheme=Ambiance
-IconTheme=ubuntu-mono-dark
+GtkTheme=GX-Dusty-Sky
+MetacityTheme=GX-Dusty-Sky
+IconTheme=zoncolorSlate
 CursorTheme=DMZ-White
 ButtonLayout=close,minimize,maximize:
