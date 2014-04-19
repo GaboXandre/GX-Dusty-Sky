@@ -1,8 +1,10 @@
 ------------------
-GX DUSTY SKY v1.1
+GX DUSTY SKY v1.2
 ------------------
 
 GX Dusty Sky is based on Ambiance, just with a different colour scheme and a few minor tweaks.
+Version 1.2 is optimized for Ubuntu 14.04. It blends the new Ambiance features, eg borderless windows with GX color scheme.
+If you are using older versions of Ubuntu or derivatives, check version 1.0 and 1.1.
 
 ------------------
 LICENSE
